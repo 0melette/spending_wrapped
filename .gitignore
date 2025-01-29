@@ -1,0 +1,25 @@
+# Byte-compiled / compiled Python files
+__pycache__/
+*.py[cod]
+*.so
+*.pyo
+*.pyd
+.mypy_cache/
+
+# Virtual environment
+venv/
+spending_wrapped/
+
+# Logs and database files
+*.log
+*.sqlite3
+instance/
+
+# Environment variables (if using .env)
+.env
+
+# MacOS files
+.DS_Store
+
+# VS Code files
+.vscode/
